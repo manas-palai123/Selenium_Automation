@@ -20,6 +20,12 @@
         <artifactId>selenium-java</artifactId>
         <version>3.12.0</version> <!-- Use the latest version available -->
     </dependency>
+     <!-- TestNG Dependency -->
+    <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+        <version>7.1.0</version>
+    </dependency>
   </dependencies>
   
   <repositories>
